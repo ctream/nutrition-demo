@@ -1,0 +1,152 @@
+{
+  "company": {
+    "name": "Ihre Gesundheit im Mittelpunkt",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Start",
+      "href": "product"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+
+    {
+      "name": "Produkte",
+      "href": "pricing"
+    },
+    {
+      "name": "Über uns",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Jetzt loslegen",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Dein Partner für",
+    "subtitle": "Ernährungsberatung.",
+    "description": "Unsere Ernährungsberatung basiert auf Fachkenntnis und Erfahrung. Wir helfen Ihnen, bewusste Entscheidungen für Ihre Gesundheit zu treffen und Ihr Wohlbefinden zu steigern. Gemeinsam zu einer energiegeladenen Zukunft.",
+    "img": "/assets/images/food.png",
+    "primaryAction": {
+      "text": "Jetzt loslegen",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Schreiben Sie uns",
+      "href": ""
+    }
+  },
+  "product": {
+    "title": "Ihre Gesundheit im Mittelpunkt",
+    "items": [
+      {
+        "title": "Gesunde Ernährung für ein besseres Leben",
+        "description": "Entdecken Sie unsere maßgeschneiderten Ernährungspläne, die auf wissenschaftlichen Erkenntnissen basieren. Wir unterstützen Sie dabei, eine ausgewogene Ernährung in Ihren Alltag zu integrieren, um Ihre Gesundheit und Ihr Wohlbefinden zu fördern.",
+        "img": "/assets/images/shopping.png"
+      },
+      {
+        "title": "Energiegeladen durch bewusste Ernährung",
+        "description": "Unsere Experten helfen Ihnen dabei, Ihre Leistungsfähigkeit zu steigern. Mit einer auf Ihre Bedürfnisse abgestimmten Ernährung können Sie Ihre Ausdauer und Energie verbessern. Erleben Sie, wie die richtige Ernährung Ihre Fitness und Vitalität auf ein neues Level bringt.",
+        "img": "/assets/images/product2.png"
+      }
+    ]
+  },
+  "features": {
+    "title": "INNOVATION UND FORTSCHRITT",
+    "subtitle": "Moderne Lösungen für Ihre Gesundheit",
+    "description": "Unsere Expertise basiert auf langjähriger Erfahrung. Wir bieten modernste Technologien und bewährte Ansätze, um Ihre individuellen Ziele in Sachen Gesundheit und Ernährung zu erreichen. Lassen Sie sich von unserer ganzheitlichen Beratung überzeugen.",
+    "items": [
+      {
+        "name": "Personalisierte Ernährungspläne",
+        "description": "Individuell zugeschnittene Ernährungspläne, die Ihren Zielen, Bedürfnissen und Vorlieben entsprechen.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Ganzheitliche Beratung",
+        "description": " Umfassende Betreuung, die nicht nur auf Ernährung, sondern auch auf Bewegung, Lebensstil und Wohlbefinden abzielt.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Expertenwissen",
+        "description": " Zugang zu Experten mit fundiertem Wissen über Ernährung, Gesundheit und Fitness, die Sie auf Ihrem Weg begleiten.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Langfristige Erfolge",
+        "description": "Nachhaltige Strategien und Unterstützung, um langfristige Veränderungen zu erreichen und ein gesundes Leben zu führen.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free",
+        "price": " 24,99€",
+        "priceDetails": "pro Flasche",
+        "features": [
+          "Täglich empfohlen als Ergänzung zur Unterstützung der allgemeinen Gesundheit",
+          "Omega-3-Fettsäuren (EPA, DHA), Vitamin E",
+          "Flasche mit 120 Kapseln",
+          "Nicht Vegan"
+        ]
+      },
+      {
+        "name": "Free",
+        "price": " 29,99€",
+        "priceDetails": "pro Flasche",
+        "features": [
+          "Täglich empfohlen als Teil einer ausgewogenen Ernährung",
+          "Vitamin C, Vitamin D, Vitamin E, Vitamin B-Komplex, Zink, Selen, Antioxidantien",
+          "Flasche mit 180 Kapseln",
+          "Vegan"
+        ]
+      },
+      {
+        "name": "Free",
+        "price": " 19,99€",
+        "priceDetails": "pro Flasche",
+        "features": [
+          "Täglich empfohlen zur Unterstützung des allgemeinen Wohlbefindens und zur Stärkung des Immunsystems. ",
+          "Vitamin A, Vitamin C, Vitamin D, Vitamin E, Vitamin B-Komplex (B1, B2, B3, B5, B6, B7, B9, B12), Zink, Magnesium und andere wichtige Mikronährstoffe. ",
+          "Flasche mit 90 Tabletten",
+          "Vegan"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "FAQ",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Team",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Impressum",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Kontakt",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/issaafalkattan",
+      "twitter": "https://twitter.com/issaafkattan",
+      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+    }
+  }
+}
