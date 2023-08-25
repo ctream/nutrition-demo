@@ -15,4 +15,6 @@ module.exports = withBundleAnalyzer({
 
 module.exports = {
   output: "export",
+  basePath: "/nutrition-demo", // Hier den Namen deines Repositories eintragen
+  assetPrefix: "/nutrition-demo/",
 };
