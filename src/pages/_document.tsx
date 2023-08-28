@@ -14,6 +14,10 @@ class MyDocument extends Document {
           src="https://dev.ram-i.ai/assets/index.0.0.30.js"
     ></script>
         <body>
+        <rami-bot
+      api-key="dd3e6e1e-b3e7-4a9d-9368-3d33a326a9b7"
+      is-overlay="true"
+    ></rami-bot>
           <Main />
           <NextScript />
         </body>
