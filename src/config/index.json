@@ -18,8 +18,8 @@
       "href": "pricing"
     },
     {
-      "name": "Über uns",
-      "href": "about"
+      "name": "Dienstleistungen",
+      "href": "dienstleistungen"
     }
   ],
   "callToAction": {
@@ -54,6 +54,53 @@
         "img": "/assets/images/product2.png"
       }
     ]
+  },
+  "dienstleistungen": {
+    "title": "Unsere Dienstleistungen",
+    "items": [
+      {
+        "title": "Individuelle Ernährungsberatung",
+        "description": "Dr. Anna Müller bietet eine persönliche und individuelle Beratung an. Sie nimmt sich die Zeit, die speziellen Bedürfnisse, Ziele und Vorlieben jedes Kunden zu verstehen. Basierend auf diesen Informationen erstellt sie maßgeschneiderte Ernährungspläne, die realistisch und leicht in den Alltag integrierbar sind",
+        "title2": "Gewichtsmanagement",
+        "description2": "Gewichtsmanagement kann eine Herausforderung sein, aber mit Dr. Anna Müllers Unterstützung wird es einfacher. Sie hilft Kunden dabei, realistische Ziele zu setzen und bietet praktische Ratschläge, um diese Ziele zu erreichen. Ihre Ansätze sind ausgewogen und auf langfristige Erfolge ausgerichtet."
+      },
+      {
+        "title": "Sporternährung",
+        "description": "Sportler haben besondere Ernährungsbedürfnisse. Dr. Anna Müller bietet spezielle Beratung für Sportler an, um ihnen zu helfen, ihre Leistung zu optimieren. Dies umfasst die richtige Ernährung vor und nach dem Training sowie die Planung von Sportlermahlzeiten, die Energie und Ausdauer fördern.",
+        "title2": "Präventive Ernährung",
+        "description2": "Eine gesunde Ernährung kann dazu beitragen, zahlreiche Gesundheitsprobleme zu verhindern. Dr. Anna Müller klärt Kunden über die Bedeutung einer ausgewogenen Ernährung bei der Vorbeugung von Krankheiten wie Herzkrankheiten, Diabetes und Fettleibigkeit auf. Sie bietet praktische Ratschläge zur Risikoreduzierung."
+      },
+      {
+        "title": "Ernährung während der Schwangerschaft",
+        "description": "Werdende Mütter haben spezielle Ernährungsbedürfnisse, um ihre Gesundheit und die ihres Babys zu gewährleisten. Dr. Anna Müller bietet umfassende Beratung zur Ernährung während der Schwangerschaft, einschließlich der Auswahl von Lebensmitteln, die reich an wichtigen Nährstoffen sind.",
+        "title2": "Nahrungsmittelunverträglichkeiten und -allergien",
+        "description2": "Nahrungsmittelunverträglichkeiten und -allergien können eine Herausforderung darstellen. Dr. Anna Müller unterstützt Kunden bei der Identifizierung von Auslösern und entwickelt Ernährungspläne, um Beschwerden zu minimieren. Sie bietet auch Vorschläge für alternative Lebensmittel."
+      },
+      {
+        "title": "Lebensstil- und Ernährungsoptimierung",
+        "description": "Eine optimierte Ernährung kann zu einem verbesserten Lebensstil führen. Dr. Anna Müller gibt praxisnahe Tipps und Ratschläge zur Optimierung von Lebensstil und Ernährung, um langfristig Wohlbefinden und Gesundheit zu fördern.",
+        "title2": "Koch- und Einkaufsberatung",
+        "description2": "Gesunde Ernährung beginnt beim Einkaufen und Kochen. Dr. Anna Müller bietet Anleitung und Tipps zum Einkaufen von gesunden Lebensmitteln und zur Zubereitung von nahrhaften Mahlzeiten. Sie kann Rezepte anbieten und bei der Planung von Mahlzeiten helfen."
+      },
+      {
+        "title": "Gesunde Essgewohnheiten für Kinder",
+        "description": "Eltern stehen oft vor der Herausforderung, ihre Kinder zu einer gesunden Ernährung zu erziehen. Dr. Anna Müller bietet Eltern Beratung und Strategien, um Kinder für gesunde Lebensmittel zu begeistern und positive Essgewohnheiten zu fördern.",
+        "title2": "Gruppenworkshops und Seminare",
+        "description2": "Dr. Anna Müller bietet Gruppenworkshops und Seminare zu verschiedenen Ernährungsthemen an. Diese können in Schulen, Unternehmen oder Gemeinschaftsgruppen stattfinden und Wissen über gesunde Ernährung vermitteln."
+      },
+      {
+        "title": "Langfristige Betreuung",
+        "description": "Um sicherzustellen, dass Kunden ihre Ernährungsziele erreichen und langfristig gesunde Gewohnheiten entwickeln, bietet Dr. Anna Müller langfristige Betreuung und Unterstützung an. Sie steht ihren Kunden zur Seite, auch nachdem ihre Ziele erreicht wurden.",
+        "title2": "Online-Beratung",
+        "description2": "Dr. Anna Müller bietet die Möglichkeit zur Fernberatung über Online-Meetings an. Dies ermöglicht es Kunden, unabhängig von ihrem Standort von ihren Dienstleistungen zu profitieren."
+      }
+    ]
+  },
+  "doctor": {
+    "title": "Über Dr. Anna Müller",
+    "description": "Dr. Anna Müller hat eine beeindruckende akademische Laufbahn mit einem Doktortitel in Ernährungswissenschaften abgeschlossen. Sie ist seit über einem Jahrzehnt in der Ernährungsberatung tätig und hat in dieser Zeit zahlreiche Kunden erfolgreich auf ihrem Weg zu einer gesünderen Ernährung begleitet.Gesundheit",
+    "subtitle": "Beruflicher Hintergrund",
+    "laufbahn": "Dr. Müller begann ihre Karriere in renommierten medizinischen Einrichtungen, darunter Krankenhäuser und Kliniken. Während dieser Zeit erwarb sie ein tiefes Verständnis für die Bedeutung der Ernährung in der medizinischen Praxis. Ihre Erfahrung erstreckt sich von der Arbeit mit Patienten, die besondere Ernährungsbedürfnisse haben, bis hin zur Unterstützung von Sportlern bei der Optimierung ihrer Ernährung für Höchstleistungen"
   },
   "features": {
     "title": "INNOVATION UND FORTSCHRITT",

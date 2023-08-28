@@ -59,12 +59,17 @@ const Menu = () => {
                   {item.name}
                 </Link>
               ))}
-              <a
-                href="#"
-                className={`font-medium text-primary hover:text-secondary`}
-              >
-                Termin vereinbaren
-              </a>
+                <Link
+                  spy={true}
+                  active="active"
+                  smooth={true}
+                  duration={1000}
+                  key={"Über uns"}
+                  to={"about"}
+                  className={`font-medium text-primary hover:text-secondary`}
+                  >
+                  Über uns
+                </Link>
             </div>
           </nav>
         </div>
