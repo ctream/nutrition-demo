@@ -8,6 +8,11 @@ class MyDocument extends Document {
     return (
       <Html lang={AppConfig.locale}>
         <Head />
+        <script
+          type="module"
+          crossOrigin="true"
+          src="https://dev.ram-i.ai/assets/index.0.0.30.js"
+    ></script>
         <body>
           <Main />
           <NextScript />
