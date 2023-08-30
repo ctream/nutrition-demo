@@ -30,7 +30,7 @@ const Pricing = () => {
               className={`flex-1 bg-background text-gray-600 rounded-t rounded-b-none overflow-hidden shadow`}
             >
               <div style={{textAlign: "center", fontSize: "1.3rem", borderBottom: "1px solid rgba(229, 231, 235, 1)", padding: "0.8rem 0"}}>
-              VitalBoost Daily Essentials
+              PureOmega Health Boost
               </div>
               <div className={`p-8 text-3xl font-bold text-center border-b-4`}>
                 <img src="assets/images/image2.png" alt="whatever" width="80%" height="80%" style={{margin: "0 auto"}} />
@@ -64,7 +64,7 @@ const Pricing = () => {
               className={`flex-1 bg-background rounded-t rounded-b-none overflow-hidden shadow`}
             >
                             <div style={{textAlign: "center", fontSize: "1.3rem", borderBottom: "1px solid rgba(229, 231, 235, 1)", padding: "0.8rem 0"}}>
-                            PureOmega Health Boost
+                            VitalBoost Daily Essentials
               </div>
               <div className={`w-full p-8 text-3xl font-bold text-center`}>
               <img src="assets/images/image1.png" alt="whatever" width="70%" height="70%" style={{margin: "0 auto"}} />
