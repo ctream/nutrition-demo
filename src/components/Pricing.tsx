@@ -26,7 +26,7 @@ const Pricing = () => {
           <div
             className={`flex flex-col w-5/6 lg:w-1/4 mx-auto lg:mx-0 rounded-none lg:rounded-l-lg bg-background mt-4`}
           >
-            <div
+            <div id="e917845c-ae87-436e-8768-32e31f754acd"
               className={`flex-1 bg-background text-gray-600 rounded-t rounded-b-none overflow-hidden shadow`}
             >
               <div style={{textAlign: "center", fontSize: "1.3rem", borderBottom: "1px solid rgba(229, 231, 235, 1)", padding: "0.8rem 0"}}>
@@ -60,7 +60,7 @@ const Pricing = () => {
           <div
             className={`flex flex-col w-5/6 lg:w-1/3 mx-auto lg:mx-0 rounded-lg bg-background mt-4 sm:-mt-6 shadow-lg z-10`}
           >
-            <div
+            <div id="ca289f70-0f73-4bc6-9964-f0e4e2713935"
               className={`flex-1 bg-background rounded-t rounded-b-none overflow-hidden shadow`}
             >
                             <div style={{textAlign: "center", fontSize: "1.3rem", borderBottom: "1px solid rgba(229, 231, 235, 1)", padding: "0.8rem 0"}}>
@@ -95,7 +95,7 @@ const Pricing = () => {
           <div
             className={`flex flex-col w-5/6 lg:w-1/4 mx-auto lg:mx-0 rounded-none lg:rounded-l-lg bg-primary mt-4`}
           >
-            <div
+            <div id="2abded65-fe98-4669-8111-1aaf61de0c74"
               className={`flex-1 bg-background text-gray-600 rounded-t rounded-b-none overflow-hidden shadow`}
             >
                             <div style={{textAlign: "center", fontSize: "1.3rem", borderBottom: "1px solid rgba(229, 231, 235, 1)", padding: "0.8rem 0"}}>
