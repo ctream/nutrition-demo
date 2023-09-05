@@ -11,7 +11,7 @@ class MyDocument extends Document {
         <script
           type="module"
           crossOrigin="true"
-          src="https://dev.ram-i.ai/assets/index.0.0.40.js"
+          src="https://dev.ram-i.ai/assets/index.0.0.42.js"
     ></script>
         <body>
         <rami-bot
